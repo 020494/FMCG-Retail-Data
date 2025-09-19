@@ -24,8 +24,17 @@ and includes product details such as sales, quantity, unit price, and profit mar
 - **Advanced Formulas**: INDEX–MATCH, nested IFs, array formulas
 - **Pivot Tables & Pivot Charts** with slicers and timelines
 - **Conditional Formatting & Dashboards** for KPI visualization
-- **Outlier detection and exploratory data analysis**
+- **Outlier detection** and **Exploratory data analysis**
 
 ---
 
-## 📂 Repository Structure
+## 🔑 Key Insights
+- **Sales Trends**: Identified seasonal and regional trends across 2016–2018
+- **Product Performance**: Determined top-performing and underperforming products
+- **Profit Analysis**: Analyzed profit margins by region and store type
+- **Dashboards**: Built interactive dashboards for quick decision-making and KPI tracking
+
+## 🎯 Learning Outcomes
+- Developed hands-on expertise in advanced Excel techniques for data analysis
+- Learned to transform raw FMCG sales data into actionable insights
+- Enhanced skills in data visualization and dashboard creation  
